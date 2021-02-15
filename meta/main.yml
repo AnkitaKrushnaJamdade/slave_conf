@@ -3,5 +3,5 @@ galaxy_info:
   description: this role will configure k8s slave for you
   min_ansible_version: 2.9
   galaxy_tags: 
-   - slave configuration
+   - slave 
    - kubernetes

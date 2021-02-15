@@ -1,7 +1,7 @@
 slave_conf
 =========
 
-This role will configure k8s slaves for you
+This role will configure 2 k8s slaves or worker nodes for you which will have tag as key = Name and value = k8s_slave_an in aws instance
 
 Requirements
 ------------

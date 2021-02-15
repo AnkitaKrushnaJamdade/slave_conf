@@ -39,5 +39,5 @@
   package:
         name: "iproute-tc"
         state: present
-- Running command for joining
+- name: Running command for joining
   script: /IP_OF_MASTER/root/out.txt

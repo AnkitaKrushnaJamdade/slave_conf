@@ -8,11 +8,7 @@ galaxy_info:
    - slave configuration
    - kubernetes
    
-dependencies: 
-  - master-instance
-  - master_conf
-  - slave-instance
-  - boto library
-  - updated dynamic inventory
+dependencies: boto library master-instance master_conf slave-instance roles
+
   
   

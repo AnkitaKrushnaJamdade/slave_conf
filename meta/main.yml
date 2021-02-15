@@ -13,5 +13,6 @@ dependencies:
   - master_conf
   - slave-instance
   - boto library
+  - updated dynamic inventory
   
   

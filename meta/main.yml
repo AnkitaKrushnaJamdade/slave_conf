@@ -1,0 +1,17 @@
+galaxy_info:
+  author: Ankita Jamdade
+  description: this role will configure k8s slave for you
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: 
+   - slave configuration
+   - kubernetes
+   
+dependencies: 
+  - master-instance
+  - master_conf
+  - slave-instance
+  - boto library
+  
+  

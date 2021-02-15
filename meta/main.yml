@@ -7,8 +7,4 @@ galaxy_info:
   galaxy_tags: 
    - slave configuration
    - kubernetes
-   
-dependencies: boto library master-instance master_conf slave-instance roles
-
-  
-  
+ 

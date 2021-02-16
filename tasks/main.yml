@@ -40,4 +40,4 @@
         name: "iproute-tc"
         state: present
 - name: Running command for joining
-  script: /IP_OF_MASTER/root/out.txt
+  script: IP_OF_MASTER/root/out.txt

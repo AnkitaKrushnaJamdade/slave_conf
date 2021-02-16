@@ -17,9 +17,9 @@ Dependencies
 ------------
 
 To run this role you should first run this role:
-master-instance
+master_instance
 master_conf
-slave-instance
+slave_instance
 
 Example Playbook
 ----------------
